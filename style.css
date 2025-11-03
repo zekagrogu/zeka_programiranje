@@ -1,0 +1,62 @@
+﻿
+body {
+    margin: 0px;
+    background-color: beige;
+    font-family: Arial;
+    text-align: center;
+}
+
+#naslov {
+    margin: 40px 0px;
+    color: #3a1524;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#header {
+    margin: 20px auto 60px auto;
+    background-color: #e9ed9d;
+    height: 60px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+    #header td {
+        width: 200px;
+    }
+
+#selektovan {
+    background-color: #3a1524;
+}
+
+a {
+    text-decoration: none;
+    color: #3a1524;
+}
+
+#boja {
+    color: #e9ed9d;
+}
+
+.crta {
+    border-left: solid 1px #3a1524;
+    border-right: solid 1px #3a1524;
+}
+
+button {
+    background-color: #3a1524;
+    color: #e9ed9d;
+    margin: 20px 20px;
+    width: 100px;
+    height: 75px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#podnaslov {
+    margin: 250px 0px;
+    color: #3a1524;
+    font-size: 32px;
+    font-weight: bold;
+}
+
